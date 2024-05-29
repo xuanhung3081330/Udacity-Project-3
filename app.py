@@ -1,6 +1,5 @@
 import logging
 import os
-from token import Token
 
 from apscheduler.schedulers.background import BackgroundScheduler
 from datetime import datetime, timedelta
