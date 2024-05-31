@@ -17,4 +17,3 @@ RUN pip install -r requirements.txt
 CMD ["python", "app.py"]
 
 ## Add command to trigger automatic pipeline
-## Add command
